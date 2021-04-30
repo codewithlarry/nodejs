@@ -23,3 +23,4 @@ console.log(
 const { SERVER_PORT, SERVER_ENV, LOG_LEVEL } = process.env;
 
 console.log("Result: ", SERVER_PORT, SERVER_ENV, LOG_LEVEL);
+
