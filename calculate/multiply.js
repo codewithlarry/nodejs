@@ -1,3 +1,4 @@
-const a = 4, b = 5;
+const a = 4,
+  b = 5;
 const c = a * b;
-console.log("c = "+c);
+console.log("c = " + c);
